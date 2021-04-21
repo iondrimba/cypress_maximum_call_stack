@@ -6,6 +6,18 @@ Maximum call stack demo for issues:
 
 <https://github.com/cypress-io/cypress/issues/15101>
 
+## Setup
+```sh
+git clone git@github.com:iondrimba/cypress_maximum_call_stack.git
+cd cypress_maximum_call_stack
+npm install
+```
+
+## Test
+```
+npm test
+```
+
 
 ## Specs
 - Distributor ID: Ubuntu
