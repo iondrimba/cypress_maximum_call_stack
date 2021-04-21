@@ -1,0 +1,28 @@
+{
+  "name": "cypress_maximum_call_stack",
+  "version": "1.0.0",
+  "description": "Maximum call stack",
+  "main": "index.js",
+	"engines": {
+    "node": "15.14.0",
+    "npm": "7.7.6"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run --spec cypress/integration/sample.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iondrimba/cypress_maximum_call_stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iondrimba/cypress_maximum_call_stack/issues"
+  },
+  "homepage": "https://github.com/iondrimba/cypress_maximum_call_stack#readme",
+  "dependencies": {
+    "@percy/cli": "*",
+    "@percy/cypress": "^3.1.0",
+    "cypress": "^7.1.0"
+  }
+}
