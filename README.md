@@ -29,7 +29,7 @@ npm test
 - cypress 7.1.0
 - percy/cypress 3.1.0
 
-![image](https://user-images.githubusercontent.com/178548/115593358-cbaa2e80-a2aa-11eb-9766-1d75d168b773.png)
+![image](https://user-images.githubusercontent.com/178548/115878365-d84f9380-a41e-11eb-84b4-eb71d598c106.png)
 
 ```
     at _deconstructPacket (/home/iondrimba/.cache/Cypress/7.1.0/Cypress/resources/app/packages/socket/node_modules/socket.io-parser/dist/binary.js:40:32)
